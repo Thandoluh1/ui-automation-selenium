@@ -12,4 +12,4 @@ This project demonstrates UI test automation using Selenium WebDriver and the Pa
 ## 🎯 Automated Scenarios
 - Login functionality
 - Form validation
- 
+  
